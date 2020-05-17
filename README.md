@@ -1,6 +1,6 @@
 # ML Visuals
 
-ML Visuals is a new collaborative effort to help the machine learning community in improving science communication through using more professional, compelling and adequate visuals and figures. You can use the assets in your presentations or blog posts.
+ML Visuals is a new collaborative effort to help the machine learning community in improving science communication through using more professional, compelling and adequate visuals and figures. You can use the visuals in your presentations or blog posts.
 
 This is a project made by the dair.ai community and maintained in this GitHub repo. Our community members will continue to add more common figures and basic elements in upcoming versions. Think of this as free and open artefacts and templates which you can easily use, reuse and customize to your own needs.
 
