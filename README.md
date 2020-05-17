@@ -8,5 +8,5 @@ To add your own custom figures, simply add a new slide and reuse any of the basi
 
 Downloading a figure from any of the slides is easy. Just click on File→Download→(choose your format).
 
-If you need help with customizing a figure or have an idea of something that could be valuable to others, we can help. Just open an issue [here](https://github.com/dair-ai/visuals/issues/new) and we will do our best to come up with the visual. Thanks.
+If you need help with customizing a figure or have an idea of something that could be valuable to others, we can help. Just open an issue [here](https://github.com/dair-ai/ml-visuals/issues/new) and we will do our best to come up with the visual. Thanks.
 
