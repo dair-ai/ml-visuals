@@ -11,3 +11,6 @@ Downloading a figure from any of the slides is easy. Just click on File→Downlo
 If you need help with customizing a figure or have an idea of something that could be valuable to others, we can help. Just open an issue [here](https://github.com/dair-ai/ml-visuals/issues/new) and we will do our best to come up with the visual. Thanks.
 
 Feel free to ask us anything related to this project in our [Slack group](https://join.slack.com/t/dairai/shared_invite/zt-dv2dwzj7-F9HT047jIGkunNKv88lQ~g).
+
+## Versions:
+- [Version 1.0](https://join.slack.com/t/dairai/shared_invite/zt-dv2dwzj7-F9HT047jIGkunNKv88lQ~g)
