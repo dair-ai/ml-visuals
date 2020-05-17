@@ -1,4 +1,4 @@
-# Visuals
+# ML Visuals
 
 Visuals is a new collaborative effort to help the AI community in improving science communication through using more professional, compelling and adequate visuals and figures.
 
