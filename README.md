@@ -15,7 +15,7 @@ If you need help with customizing a figure or have an idea of something that cou
 Feel free to ask us anything related to this project in our [Slack group](https://join.slack.com/t/dairai/shared_invite/zt-dv2dwzj7-F9HT047jIGkunNKv88lQ~g).
 
 ## Versions:
-- [Version 1.0](https://join.slack.com/t/dairai/shared_invite/zt-dv2dwzj7-F9HT047jIGkunNKv88lQ~g)
+- [Version 1.0](https://docs.google.com/presentation/d/11mR1nkIR9fbHegFkcFq8z9oDQ5sjv8E3JJp1LfLGKuk/edit?usp=sharing)
 
 ## Examples of Visuals
 ![](1.png)
