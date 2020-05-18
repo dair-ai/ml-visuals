@@ -16,3 +16,8 @@ Feel free to ask us anything related to this project in our [Slack group](https:
 
 ## Versions:
 - [Version 1.0](https://join.slack.com/t/dairai/shared_invite/zt-dv2dwzj7-F9HT047jIGkunNKv88lQ~g)
+
+## Examples of Visuals
+![](1.png)
+![](2.png)
+![](3.png)
