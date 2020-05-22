@@ -17,6 +17,13 @@ Feel free to ask us anything related to this project in our [Slack group](https:
 ## Versions:
 - [Version 1.0](https://docs.google.com/presentation/d/11mR1nkIR9fbHegFkcFq8z9oDQ5sjv8E3JJp1LfLGKuk/edit?usp=sharing)
 
+
+## How to Contribute?
+- You can check out our [Project page](https://github.com/orgs/dair-ai/projects/8) to see all the ongoing tasks or issues related to this research project. Lookout for the main `ml_visuals` tag. Issues with the `good first issue` tag are good tasks to get started with.
+- You can also just check the [issues tab](https://github.com/dair-ai/ml-visuals/issues).
+- You can ask anything related to this project in our [Slack group](https://join.slack.com/t/dairai/shared_invite/zt-dv2dwzj7-F9HT047jIGkunNKv88lQ~g). 
+- Slack channel: #ml_visuals
+
 ## Examples of Visuals
 ![](1.png)
 ![](2.png)
