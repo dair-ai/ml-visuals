@@ -12,7 +12,7 @@ Downloading a figure from any of the slides is easy. Just click on File→Downlo
 
 If you need help with customizing a figure or have an idea of something that could be valuable to others, we can help. Just open an issue [here](https://github.com/dair-ai/ml-visuals/issues/new) and we will do our best to come up with the visual. Thanks.
 
-Feel free to ask us anything related to this project in our [Slack group](https://join.slack.com/t/dairai/shared_invite/zt-dv2dwzj7-F9HT047jIGkunNKv88lQ~g).
+Feel free to reach out to me on [Twitter](https://twitter.com/omarsar0) for an invite to our Slack group.
 
 ## Versions:
 - [Version 1.0](https://docs.google.com/presentation/d/11mR1nkIR9fbHegFkcFq8z9oDQ5sjv8E3JJp1LfLGKuk/edit?usp=sharing)
@@ -21,7 +21,7 @@ Feel free to ask us anything related to this project in our [Slack group](https:
 ## How to Contribute?
 - You can check out our [Project page](https://github.com/orgs/dair-ai/projects/8) to see all the ongoing tasks or issues related to this research project. Lookout for the main `ml_visuals` tag. Issues with the `good first issue` tag are good tasks to get started with.
 - You can also just check the [issues tab](https://github.com/dair-ai/ml-visuals/issues).
-- You can ask anything related to this project in our [Slack group](https://join.slack.com/t/dairai/shared_invite/zt-dv2dwzj7-F9HT047jIGkunNKv88lQ~g). 
+- You can ask anything related to this project in our Slack group
 - Slack channel: #ml_visuals
 
 ## Examples of Visuals
