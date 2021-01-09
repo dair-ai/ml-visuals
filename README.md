@@ -26,6 +26,39 @@ Feel free to reach out to me on [Twitter](https://twitter.com/omarsar0) for an i
 - You can ask anything related to this project in our Slack group
 - Slack channel: #ml_visuals
 
+**Some ideas for figures to add to the PPT** ([issue](https://github.com/dair-ai/ml-visuals/issues/14))
+
+- [ ] Linear regression, single-layer neural network
+- [ ] Multilayer Perceptron with hidden layer
+- [ ] Backpropagation
+- [ ] Batch Normalization and alternatives
+- [ ] Computational Graphs
+- [ ] Dropout
+- [ ] CNN - padding, stride, pooling,... 
+- [ ] LeNet
+- [ ] AlexNet
+- [ ] VGG
+- [ ] GoogleNet
+- [ ] ResNet
+- [ ] DenseNet
+- [ ] Memory Networks
+- [ ] RNN
+- [ ] Deep RNN
+- [ ] Bidirectional RNN
+- [ ] GRU
+- [ ] LSTM
+- [ ] Language RNN models
+- [ ] Backpropagation through time
+- [ ] Encoder-Decoder Architecture
+- [ ] Seq2seq with RNN encoder-decoder
+- [ ] Bearm search and other decoding strategies
+- [ ] Attention
+- [ ] Multi-head attention
+- [ ] Self-attention
+- [ ] Transformer
+- [ ] Word2vec/GloVe/Skip-gram/CBOW/BERT/....
+- [ ] Common/Popular CV/NLP Tasks
+
 ## Examples of Visuals
 ![](1.png)
 ![](2.png)
