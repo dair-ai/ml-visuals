@@ -56,7 +56,7 @@ Feel free to reach out to me on [Twitter](https://twitter.com/omarsar0) for an i
 - [ ] Multi-head attention
 - [ ] Self-attention
 - [ ] Transformer
-- [ ] Word2vec/GloVe/Skip-gram/CBOW/BERT/....
+- [ ] Word2vec/GloVe/Skip-gram/CBOW/BERT/GPT....
 - [ ] Common/Popular CV/NLP Tasks
 
 ## Examples of Visuals
