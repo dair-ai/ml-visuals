@@ -59,6 +59,8 @@ Feel free to reach out to me on [Twitter](https://twitter.com/omarsar0) for an i
 - [ ] Word2vec/GloVe/Skip-gram/CBOW/BERT/GPT....
 - [ ] Common/Popular CV/NLP Tasks
 
+List adopted from multiple resources including [nlpoverview](https://nlpoverview.com/index.html) and [d2l.ai](https://d2l.ai/) which both contain a very solid syllabus.  
+
 ## Examples of Visuals
 ![](1.png)
 ![](2.png)
