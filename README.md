@@ -26,7 +26,7 @@ Feel free to reach out to me on [Twitter](https://twitter.com/omarsar0) for an i
 - You can ask anything related to this project in our Slack group
 - Slack channel: #ml_visuals
 
-**Some ideas for figures to add to the PPT** ([issue](https://github.com/dair-ai/ml-visuals/issues/14))
+**Some ideas for figures to add to the Slides** ([issue](https://github.com/dair-ai/ml-visuals/issues/14))
 
 - [ ] Linear regression, single-layer neural network
 - [ ] Multilayer Perceptron with hidden layer
