@@ -1,6 +1,8 @@
 # ML Visuals
 
-`⚠️ Please note that I have halted giving editing access to the slides as I figure out how to best maintain the project going forward. You can still access the slides and make a copy of it for your own purposes.`
+📣 Massive updates coming to the repo soon!
+
+📣 In the meantime, [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 
 [ML Visuals](https://docs.google.com/presentation/d/11mR1nkIR9fbHegFkcFq8z9oDQ5sjv8E3JJp1LfLGKuk/edit?usp=sharing) is a new collaborative effort to help the machine learning community in improving science communication by providing free professional, compelling and adequate visuals and figures. Currently, we have over 100 figures (all open community contributions). You are free to use the visuals in your machine learning presentations or blog posts. You don’t need to ask permission to use any of the visuals but it will be nice if you can provide credit to the designer/author (author information found in the slide notes). Check out the versions of the visuals below. 
 
