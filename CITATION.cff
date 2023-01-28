@@ -3,7 +3,6 @@ message: "If you use this resource, please cite it as below."
 authors:
 - family-names: "Saravia"
   given-names: "Elvis"
-- family-names: "Community Contributors"
 title: "ML Visuals"
 date-released: 2022-12-16
 url: "https://github.com/dair-ai/ml-visuals"
@@ -12,7 +11,6 @@ preferred-citation:
   authors:
   - family-names: "Saravia"
     given-names: "Elvis"
-  - family-names: "Community Contributors"
   month: 12
   journal: "https://github.com/dair-ai/ml-visuals"
   title: "ML Visuals"
