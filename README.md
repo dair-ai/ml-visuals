@@ -1,6 +1,6 @@
 # ML Visuals
 
-📣 Massive updates coming to the repo soon!
+📣 Massive updates coming to the slides and repo soon!
 
 📣 In the meantime, [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 
